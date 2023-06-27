@@ -7,6 +7,8 @@
   
 Inspired from - [Brackeys Unity beginner series](https://youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 
+> MacOS build available only
+
 ### Demo
 
 [![Cube Runner](https://img.youtube.com/vi/wCKYLeuLw0c/0.jpg)](https://www.youtube.com/watch?v=wCKYLeuLw0c)
