@@ -7,7 +7,7 @@
   
 Inspired from - [Brackeys Unity beginner series](https://youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 
-> MacOS build available only
+> [MacOS build available only](Builds/Macos/CubeRunner.app/Contents/MacOS)
 
 ### Demo
 
